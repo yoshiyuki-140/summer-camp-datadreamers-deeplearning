@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2016 Koki Saitoh
+Copyright (c) 2016 Koki Saitoh<br>
 Copyright (c) 2024 Yoshiyuki Kurose
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
